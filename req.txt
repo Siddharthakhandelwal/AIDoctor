@@ -1,4 +1,4 @@
-
+supabase
 pytesseract
 PyPDF2
 openai==0.28
