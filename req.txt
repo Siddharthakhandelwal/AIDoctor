@@ -1,0 +1,9 @@
+
+pytesseract
+PyPDF2
+openai==0.28
+opencv-python-headless
+numpy
+fitz
+pymupdf
+opencv-python
